@@ -1,5 +1,7 @@
 # O-que-git-e-github
-O que é GIT?
+1- O que é GIT?
 Sistema de versionamento de arquivo no qual registra atualizações do código.
-O que é GITHUB?
-Plataforma de desenvolvimento na qual se pode compartilhar seus códigos com a comunidade em caso de ser um código publico, podem surgir sugestões de melhorias ao código.
+
+
+2- O que é GITHUB e qual o motivo da sua criação?
+Plataforma de desenvolvimento na qual se pode compartilhar seus códigos com a comunidade. Foi criado para facilitar a colaboração no desenvolvimento de software, o Github hospeda os repositórios do GIT e fornece aos desenvolvedores ferramentas para aprimoramento do código.
